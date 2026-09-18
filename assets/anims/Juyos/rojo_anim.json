@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "rojo_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "rojo",
+                    "frame": "r1"
+                }
+            ]
+        },
+        {
+            "key": "rojo_p",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "rojo",
+                    "frame": "r1"
+                },
+                {
+                    "key": "rojo",
+                    "frame": "r2"
+                },
+                {
+                    "key": "rojo",
+                    "frame": "r3"
+                },
+                {
+                    "key": "rojo",
+                    "frame": "r4"
+                },
+                {
+                    "key": "rojo",
+                    "frame": "r5"
+                },
+                {
+                    "key": "rojo",
+                    "frame": "r6"
+                },
+                {
+                    "key": "rojo",
+                    "frame": "r7"
+                }
+            ]
+        }
+    ]
+}

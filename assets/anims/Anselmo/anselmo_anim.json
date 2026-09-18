@@ -1,0 +1,144 @@
+{
+    "anims": [
+        {
+            "key": "anselmo_idle_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "anselmo",
+                    "frame": "u1"
+                }
+            ]
+        },
+        {
+            "key": "anselmo_idle_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "anselmo",
+                    "frame": "w1"
+                }
+            ]
+        },
+        {
+            "key": "anselmo_idle_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "anselmo",
+                    "frame": "w4"
+                }
+            ]
+        },
+        {
+            "key": "anselmo_walk_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "anselmo",
+                    "frame": "w4"
+                },
+                {
+                    "key": "anselmo",
+                    "frame": "w5"
+                },
+                {
+                    "key": "anselmo",
+                    "frame": "w6"
+                }
+            ]
+        },
+        {
+            "key": "anselmo_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "anselmo",
+                    "frame": "d1"
+                },
+                {
+                    "key": "anselmo",
+                    "frame": "d2"
+                },
+                {
+                    "key": "anselmo",
+                    "frame": "d3"
+                }
+            ]
+        },
+        {
+            "key": "anselmo_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "anselmo",
+                    "frame": "u1"
+                },
+                {
+                    "key": "anselmo",
+                    "frame": "u2"
+                },
+                {
+                    "key": "anselmo",
+                    "frame": "u3"
+                }
+            ]
+        },
+        {
+            "key": "anselmo_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "anselmo",
+                    "frame": "w1"
+                },
+                {
+                    "key": "anselmo",
+                    "frame": "w2"
+                },
+                {
+                    "key": "anselmo",
+                    "frame": "w3"
+                }
+            ]
+        },
+        {
+            "key": "anselmo_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "anselmo",
+                    "frame": "d1"
+                }
+            ]
+        },
+        {
+            "key": "anselmo_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "anselmo",
+                    "frame": "w2"
+                }
+            ]
+        }
+    ]
+}

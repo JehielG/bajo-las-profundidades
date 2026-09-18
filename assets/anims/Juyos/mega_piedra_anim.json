@@ -1,0 +1,68 @@
+{
+    "anims": [
+        {
+            "key": "mega_piedra_derrota",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "mega_piedra",
+                    "frame": "pixil-layer-6"
+                },
+                {
+                    "key": "mega_piedra",
+                    "frame": "pixil-layer-7"
+                }
+            ]
+        },
+        {
+            "key": "mega_piedra_feliz",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1.5,
+            "frames": [
+                {
+                    "key": "mega_piedra",
+                    "frame": "pixil-layer-4"
+                },
+                {
+                    "key": "mega_piedra",
+                    "frame": "pixil-layer-5"
+                }
+            ]
+        },
+        {
+            "key": "mega_piedra_enojo",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 2,
+            "frames": [
+                {
+                    "key": "mega_piedra",
+                    "frame": "pixil-layer-2"
+                },
+                {
+                    "key": "mega_piedra",
+                    "frame": "pixil-layer-3"
+                }
+            ]
+        },
+        {
+            "key": "mega_piedra_neutro",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1.5,
+            "frames": [
+                {
+                    "key": "mega_piedra",
+                    "frame": "pixil-layer-0"
+                },
+                {
+                    "key": "mega_piedra",
+                    "frame": "pixil-layer-1"
+                }
+            ]
+        }
+    ]
+}

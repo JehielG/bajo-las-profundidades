@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "w_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "w_up",
+                    "frame": "cam_u0"
+                },
+                {
+                    "key": "w_up",
+                    "frame": "cam_u1"
+                },
+                {
+                    "key": "w_up",
+                    "frame": "cam_u3"
+                },
+                {
+                    "key": "w_up",
+                    "frame": "cam_u4"
+                },
+                {
+                    "key": "w_up",
+                    "frame": "cam_u5"
+                },
+                {
+                    "key": "w_up",
+                    "frame": "cam_u6"
+                },
+                {
+                    "key": "w_up",
+                    "frame": "cam_u7"
+                },
+                {
+                    "key": "w_up",
+                    "frame": "cam_u8"
+                },
+                {
+                    "key": "w_up",
+                    "frame": "cam_u9"
+                },
+                {
+                    "key": "w_up",
+                    "frame": "cam_u10"
+                }
+            ]
+        }
+    ]
+}

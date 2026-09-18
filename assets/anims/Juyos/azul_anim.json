@@ -1,0 +1,60 @@
+{
+    "anims": [
+        {
+            "key": "azul_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "azul",
+                    "frame": "a1"
+                }
+            ]
+        },
+        {
+            "key": "azul_p",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "azul",
+                    "frame": "a1"
+                },
+                {
+                    "key": "azul",
+                    "frame": "a2"
+                },
+                {
+                    "key": "azul",
+                    "frame": "a3"
+                },
+                {
+                    "key": "azul",
+                    "frame": "a4"
+                },
+                {
+                    "key": "azul",
+                    "frame": "a5"
+                },
+                {
+                    "key": "azul",
+                    "frame": "a6"
+                },
+                {
+                    "key": "azul",
+                    "frame": "a7"
+                },
+                {
+                    "key": "azul",
+                    "frame": "a8"
+                },
+                {
+                    "key": "azul",
+                    "frame": "a9"
+                }
+            ]
+        }
+    ]
+}

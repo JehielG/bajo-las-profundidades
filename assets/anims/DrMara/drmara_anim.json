@@ -1,0 +1,76 @@
+{
+    "anims": [
+        {
+            "key": "drmara_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "drmara",
+                    "frame": "d1"
+                }
+            ]
+        },
+        {
+            "key": "drmara_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "drmara",
+                    "frame": "d1"
+                },
+                {
+                    "key": "drmara",
+                    "frame": "d2"
+                },
+                {
+                    "key": "drmara",
+                    "frame": "d3"
+                }
+            ]
+        },
+        {
+            "key": "drmara_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "drmara",
+                    "frame": "u1"
+                },
+                {
+                    "key": "drmara",
+                    "frame": "u2"
+                },
+                {
+                    "key": "drmara",
+                    "frame": "u3"
+                }
+            ]
+        },
+        {
+            "key": "drmara_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "drmara",
+                    "frame": "wl1"
+                },
+                {
+                    "key": "drmara",
+                    "frame": "wl2"
+                },
+                {
+                    "key": "drmara",
+                    "frame": "wl3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "amarillo_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "amarillo",
+                    "frame": "a1"
+                }
+            ]
+        },
+        {
+            "key": "amarillo_p",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "amarillo",
+                    "frame": "a1"
+                },
+                {
+                    "key": "amarillo",
+                    "frame": "a2"
+                },
+                {
+                    "key": "amarillo",
+                    "frame": "a3"
+                },
+                {
+                    "key": "amarillo",
+                    "frame": "a4"
+                },
+                {
+                    "key": "amarillo",
+                    "frame": "a5"
+                },
+                {
+                    "key": "amarillo",
+                    "frame": "a6"
+                },
+                {
+                    "key": "amarillo",
+                    "frame": "a7"
+                }
+            ]
+        }
+    ]
+}

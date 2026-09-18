@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "link_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 11,
+            "frames": [
+                {
+                    "key": "link_walk",
+                    "frame": "walk_1"
+                },
+                {
+                    "key": "link_walk",
+                    "frame": "walk_2"
+                },
+                {
+                    "key": "link_walk",
+                    "frame": "walk_3"
+                },
+                {
+                    "key": "link_walk",
+                    "frame": "walk_4"
+                },
+                {
+                    "key": "link_walk",
+                    "frame": "walk_5"
+                },
+                {
+                    "key": "link_walk",
+                    "frame": "walk_6"
+                },
+                {
+                    "key": "link_walk",
+                    "frame": "walk_7"
+                },
+                {
+                    "key": "link_walk",
+                    "frame": "walk_8"
+                },
+                {
+                    "key": "link_walk",
+                    "frame": "walk_9"
+                },
+                {
+                    "key": "link_walk",
+                    "frame": "walk_10"
+                }
+            ]
+        }
+    ]
+}

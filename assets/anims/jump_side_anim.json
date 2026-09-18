@@ -1,0 +1,40 @@
+{
+    "anims": [
+        {
+            "key": "jump_side",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "jump_side",
+                    "frame": "jump_side1"
+                },
+                {
+                    "key": "jump_side",
+                    "frame": "jump_side2"
+                },
+                {
+                    "key": "jump_side",
+                    "frame": "jump_side3"
+                },
+                {
+                    "key": "jump_side",
+                    "frame": "jump_side4"
+                },
+                {
+                    "key": "jump_side",
+                    "frame": "jump_side5"
+                },
+                {
+                    "key": "jump_side",
+                    "frame": "jump_side6"
+                },
+                {
+                    "key": "jump_side",
+                    "frame": "jump_side7"
+                }
+            ]
+        }
+    ]
+}

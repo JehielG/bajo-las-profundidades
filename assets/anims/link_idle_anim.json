@@ -1,0 +1,80 @@
+{
+    "anims": [
+        {
+            "key": "link_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_2"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_3"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_2"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "link_idle",
+                    "frame": "idle_1"
+                }
+            ]
+        }
+    ]
+}

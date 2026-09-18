@@ -1,0 +1,144 @@
+{
+    "anims": [
+        {
+            "key": "isabella_idle_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "isabella",
+                    "frame": "w1"
+                }
+            ]
+        },
+        {
+            "key": "isabella_idle_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "isabella",
+                    "frame": "u1"
+                }
+            ]
+        },
+        {
+            "key": "isabella_idle_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "isabella",
+                    "frame": "w4"
+                }
+            ]
+        },
+        {
+            "key": "isabella_walk_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "isabella",
+                    "frame": "w4"
+                },
+                {
+                    "key": "isabella",
+                    "frame": "w5"
+                },
+                {
+                    "key": "isabella",
+                    "frame": "w6"
+                }
+            ]
+        },
+        {
+            "key": "isabella_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "isabella",
+                    "frame": "d1"
+                },
+                {
+                    "key": "isabella",
+                    "frame": "d2"
+                },
+                {
+                    "key": "isabella",
+                    "frame": "d3"
+                }
+            ]
+        },
+        {
+            "key": "isabella_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "isabella",
+                    "frame": "u1"
+                },
+                {
+                    "key": "isabella",
+                    "frame": "u2"
+                },
+                {
+                    "key": "isabella",
+                    "frame": "u3"
+                }
+            ]
+        },
+        {
+            "key": "isabella_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "isabella",
+                    "frame": "w1"
+                },
+                {
+                    "key": "isabella",
+                    "frame": "w2"
+                },
+                {
+                    "key": "isabella",
+                    "frame": "w3"
+                }
+            ]
+        },
+        {
+            "key": "isabella_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "isabella",
+                    "frame": "d1"
+                }
+            ]
+        },
+        {
+            "key": "isabella_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "isabella",
+                    "frame": "w3"
+                }
+            ]
+        }
+    ]
+}

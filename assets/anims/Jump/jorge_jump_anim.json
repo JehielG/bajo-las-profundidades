@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "jorge_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "jorge_jump",
+                    "frame": "j1"
+                },
+                {
+                    "key": "jorge_jump",
+                    "frame": "j2"
+                },
+                {
+                    "key": "jorge_jump",
+                    "frame": "j3"
+                },
+                {
+                    "key": "jorge_jump",
+                    "frame": "j4"
+                },
+                {
+                    "key": "jorge_jump",
+                    "frame": "j5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "anims": [
+        {
+            "key": "reptiliano2_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "reptiliano2",
+                    "frame": "w4"
+                }
+            ]
+        },
+        {
+            "key": "reptiliano2_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "reptiliano2",
+                    "frame": "w6"
+                },
+                {
+                    "key": "reptiliano2",
+                    "frame": "w1"
+                },
+                {
+                    "key": "reptiliano2",
+                    "frame": "w2"
+                },
+                {
+                    "key": "reptiliano2",
+                    "frame": "w3"
+                },
+                {
+                    "key": "reptiliano2",
+                    "frame": "w2"
+                },
+                {
+                    "key": "reptiliano2",
+                    "frame": "w4"
+                },
+                {
+                    "key": "reptiliano2",
+                    "frame": "w5"
+                }
+            ]
+        },
+        {
+            "key": "reptiliano2_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "reptiliano2",
+                    "frame": "parado"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "anims": [
+        {
+            "key": "jorge_left_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 5,
+            "frames": [
+                {
+                    "key": "jorge",
+                    "frame": "jorge_left1"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_left2"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_left1"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_left3"
+                }
+            ]
+        },
+        {
+            "key": "jorge_up_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 5,
+            "frames": [
+                {
+                    "key": "jorge",
+                    "frame": "jorge_up1"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_up2"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_up1"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_up3"
+                }
+            ]
+        },
+        {
+            "key": "jorge_right_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 5,
+            "frames": [
+                {
+                    "key": "jorge",
+                    "frame": "jorge_right1"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_right2"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_right1"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_right3"
+                }
+            ]
+        },
+        {
+            "key": "jorge_down_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 5,
+            "frames": [
+                {
+                    "key": "jorge",
+                    "frame": "jorge_down1"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_down2"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_down1"
+                },
+                {
+                    "key": "jorge",
+                    "frame": "jorge_down3"
+                }
+            ]
+        },
+        {
+            "key": "jorge_left_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "jorge",
+                    "frame": "jorge_left1"
+                }
+            ]
+        },
+        {
+            "key": "jorge_up_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "jorge",
+                    "frame": "jorge_up1"
+                }
+            ]
+        },
+        {
+            "key": "jorge_right_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "jorge",
+                    "frame": "jorge_right1"
+                }
+            ]
+        },
+        {
+            "key": "jorge_down_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "jorge",
+                    "frame": "jorge_down1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+# Replit cache & config
+.cache/
+.config/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/

@@ -1,0 +1,56 @@
+{
+    "anims": [
+        {
+            "key": "statue3_fall",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "statue3_fall",
+                    "frame": "statue3_fall1"
+                },
+                {
+                    "key": "statue3_fall",
+                    "frame": "statue3_fall2"
+                },
+                {
+                    "key": "statue3_fall",
+                    "frame": "statue3_fall3"
+                },
+                {
+                    "key": "statue3_fall",
+                    "frame": "statue3_fall4"
+                },
+                {
+                    "key": "statue3_fall",
+                    "frame": "statue3_fall5"
+                },
+                {
+                    "key": "statue3_fall",
+                    "frame": "statue3_fall6"
+                },
+                {
+                    "key": "statue3_fall",
+                    "frame": "statue3_fall7"
+                },
+                {
+                    "key": "statue3_fall",
+                    "frame": "statue3_fall8"
+                }
+            ]
+        },
+        {
+            "key": "statue3_idle",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "statue3_fall",
+                    "frame": "statue3_fall1"
+                }
+            ]
+        }
+    ]
+}

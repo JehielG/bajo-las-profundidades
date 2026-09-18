@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "statue3_fall1",
+            "frame": {
+                "w": 32,
+                "h": 74,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "statue3_fall2",
+            "frame": {
+                "w": 32,
+                "h": 74,
+                "x": 32,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "statue3_fall3",
+            "frame": {
+                "w": 32,
+                "h": 74,
+                "x": 64,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "statue3_fall4",
+            "frame": {
+                "w": 32,
+                "h": 74,
+                "x": 96,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "statue3_fall5",
+            "frame": {
+                "w": 32,
+                "h": 74,
+                "x": 0,
+                "y": 74
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "statue3_fall6",
+            "frame": {
+                "w": 32,
+                "h": 74,
+                "x": 32,
+                "y": 74
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "statue3_fall7",
+            "frame": {
+                "w": 32,
+                "h": 74,
+                "x": 64,
+                "y": 74
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "statue3_fall8",
+            "frame": {
+                "w": 32,
+                "h": 74,
+                "x": 96,
+                "y": 74
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

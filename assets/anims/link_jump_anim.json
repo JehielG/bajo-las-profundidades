@@ -1,0 +1,48 @@
+{
+    "anims": [
+        {
+            "key": "link_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 11,
+            "frames": [
+                {
+                    "key": "link_jump",
+                    "frame": "jump_1"
+                },
+                {
+                    "key": "link_jump",
+                    "frame": "jump_2"
+                },
+                {
+                    "key": "link_jump",
+                    "frame": "jump_3"
+                },
+                {
+                    "key": "link_jump",
+                    "frame": "jump_4"
+                },
+                {
+                    "key": "link_jump",
+                    "frame": "jump_5"
+                },
+                {
+                    "key": "link_jump",
+                    "frame": "jump_6"
+                },
+                {
+                    "key": "link_jump",
+                    "frame": "jump_7"
+                },
+                {
+                    "key": "link_jump",
+                    "frame": "jump_8"
+                },
+                {
+                    "key": "link_jump",
+                    "frame": "idle_1"
+                }
+            ]
+        }
+    ]
+}
