@@ -5,7 +5,10 @@
 A 2D puzzle and adventure web game built with **Phaser 3** and **JavaScript (ES6 Modules)**, featuring logic riddles, custom physics, interactive puzzles, and subterranean exploration across multiple levels.
 
 ---
-
+## 🕹️ Play Online
+You can play the game directly in any modern web browser without installing anything:
+👉 **[Play Bajo las Profundidades Online](https://jehielg.github.io/bajo-las-profundidades/)**
+---
 ## ⌨️ Controls
 
 | Action | Key / Input |
